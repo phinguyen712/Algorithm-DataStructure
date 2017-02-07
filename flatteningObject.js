@@ -32,9 +32,6 @@
 		}
 	};
 
-	console.log(flattenObjects(data));
-
-
 	function flattenObjects(data){
 
 		let results = {};
